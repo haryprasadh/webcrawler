@@ -1,5 +1,7 @@
+.gitignore
 node_modules/
 .config/
 .upm/
 .replit
 replit.nix
+crawl.test.js
